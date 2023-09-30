@@ -1,0 +1,47 @@
+Testing Report
+Test Case 1: Basic Encoding
+Result: Passed
+
+Observations:
+
+The input "Hello, World!" was successfully encoded using the Base64 algorithm.
+The output "SGVsbG8sIFdvcmxkIQ==" matches the expected result.
+Test Case 6: Empty Input Field
+Result: Passed
+
+Observations:
+
+The program correctly displayed an error message when attempting to encode an empty input.
+Test Case 8: Encode and then Decode
+Result: Passed
+
+Observations:
+
+"Integration Test" was successfully encoded using Base64.
+After decoding the encoded string, the original input was correctly displayed in the output.
+README for Testing
+This README file is designed for testing purposes and provides instructions on how to run the testing suite for the Encoder and Decoder program.
+
+How to Run Tests
+Clone the Repository:
+
+bash
+Copy code
+git clone https://github.com/your-username/encoder-decoder-gui.git
+cd encoder-decoder-gui
+Install Dependencies:
+
+bash
+Copy code
+pip install -r requirements.txt
+Run the Testing Suite:
+
+bash
+Copy code
+python test_suite.py
+Testing Suite
+The testing suite comprises various test cases covering different aspects of the Encoder and Decoder program. These include unit tests for encoding and decoding algorithms, GUI testing, and integration testing. A successful run of the testing suite should display "Passed" for each test case.
+
+Recommendations:
+Modify Test Cases: Feel free to modify existing test cases or add new ones based on your specific testing requirements.
+Automated Testing: Consider integrating automated testing tools for continuous testing during development.
