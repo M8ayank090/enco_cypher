@@ -24,7 +24,8 @@ Custom Algorithm:
 Placeholder for a custom encoding and decoding algorithm.
 How to Use
 Clone the Repository:
-git clone https://github.com/your-username/enco_cypher.git
+git clone [https://github.com/your-username/enco_cypher.git](https://github.com/M8ayank090/enco_cypher.git)
+
 cd encoder-decoder-gui
 Install Dependencies:
 
