@@ -1,6 +1,6 @@
 # enco_cypher
 
-## Enco_Cypher is a Python-based encoder-decoder application, ensuring secure data transformation. With advanced encryption algorithms, it safeguards information while providing seamless decoding. Ideal for privacy-conscious users seeking a reliable and efficient solution for secure data communication and storage. A Python program with a graphical user interface (GUI) using Tkinter for encoding and decoding text with various algorithms.
+### Enco_Cypher is a Python-based encoder-decoder application, ensuring secure data transformation. With advanced encryption algorithms, it safeguards information while providing seamless decoding. Ideal for privacy-conscious users seeking a reliable and efficient solution for secure data communication and storage. A Python program with a graphical user interface (GUI) using Tkinter for encoding and decoding text with various algorithms.
 
 ## Features
 
